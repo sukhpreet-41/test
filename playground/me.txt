@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sukhpreet Singh
-Skills: Docker, AWS, Git, Jenkins, k8s, Python
-Email: isukhpreetsingh12@gmail.com
-{{/user}}
